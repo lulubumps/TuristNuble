@@ -23,4 +23,4 @@ On the other hand, the application had a web version developed in Laravel with L
 We made it with love this proyect <3 
 And here is the photo for the remember.
 
-<img src="https://instagram.fccp1-1.fna.fbcdn.net/v/t51.2885-15/66292103_2193427527583706_5771975310579922989_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fccp1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=xbOP0gT7UucAX9X2cMt&tn=JbtdgvTaKznMphw_&edm=AGenrX8BAAAA&ccb=7-5&oh=00_AT8FpBog4cfQdnXS7rwXfXA-HiFIPunSywuuvsO8G3zVVw&oe=62ED62C0&_nc_sid=5eceaa">
+<img src="https://instagram.fccp1-1.fna.fbcdn.net/v/t51.2885-15/66292103_2193427527583706_5771975310579922989_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fccp1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=xbOP0gT7UucAX9X2cMt&tn=JbtdgvTaKznMphw_&edm=AGenrX8BAAAA&ccb=7-5&oh=00_AT8FpBog4cfQdnXS7rwXfXA-HiFIPunSywuuvsO8G3zVVw&oe=62ED62C0&_nc_sid=5eceaa" width="100%">
