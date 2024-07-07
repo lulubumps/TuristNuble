@@ -12,7 +12,7 @@ And the day came to add a README.md to this project. "Turist Ñuble" was a proje
 # Resource packs used
 ![Unity](https://img.shields.io/badge/unity-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=%23000000) ![Vuforia](https://img.shields.io/badge/Vuforia-%235BB73B?style=for-the-badge&logo=V&logoColor=%23ffffff) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=Laravel&logoColor=%23ffffff) 
 
-#Publication and extra data
+# Publication and extra data
 Thursday, July 18, 2019.
 Web Developer: Lulubumps
 App Developers: FxckTheSys & AleSepulveda
