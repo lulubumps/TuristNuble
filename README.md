@@ -13,14 +13,14 @@ And the day came to add a README.md to this project. "Turist Ñuble" was a proje
 ![Unity](https://img.shields.io/badge/unity-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=%23000000) ![Vuforia](https://img.shields.io/badge/Vuforia-%235BB73B?style=for-the-badge&logo=V&logoColor=%23ffffff) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=Laravel&logoColor=%23ffffff) 
 
 # Publication and extra data
-Thursday, July 18, 2019.
-Web Developer: Lulubumps
-App Developers: FxckTheSys & AleSepulveda
-Documentation, writing and correction: Lulubumps & FxckTheSys
-Online Surveys: AleSepulveda
-Field investigation: Lulubumps
-Photographs: AleSepulveda
-Final review of the app: FxckTheSys
+- Thursday, July 18, 2019.
+- Web Developer: Lulubumps
+- App Developers: FxckTheSys & AleSepulveda
+- Documentation, writing and correction: Lulubumps & FxckTheSys
+- Online Surveys: AleSepulveda
+- Field investigation: Lulubumps
+- Photographs: AleSepulveda
+- Final review of the app: FxckTheSys
 
 # Language
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
